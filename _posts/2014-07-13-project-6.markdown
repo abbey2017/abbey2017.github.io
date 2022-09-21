@@ -5,7 +5,7 @@ date: 2014-07-15
 img: submarine.png
 alt: image-alt
 project-date: April 2014
-client: Under Construction
+client: Ifimo Global Solutions
 category: Time Series Analysis
 description: Under Construction.
 ---
