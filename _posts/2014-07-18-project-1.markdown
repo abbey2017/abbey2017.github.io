@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: Feb. 2023
 client: WEA
-category: Downhole pressure prediction
-description: Under Construction.
+category: Predict appointment cancellations using machine learning
+description: The goal is to predict the probability that a lead would cancel their appointment using different machine learning algorithms.
 ---
