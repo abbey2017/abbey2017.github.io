@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: anomaly_detection.webp
 alt: image-alt
 project-date: April 2014
 client: WEA
 category: Fraud Detection Analysis
-description: Under Construction.
+description: Build anomaly deetection models to accurately spot fraudlent transactions.
 ---
