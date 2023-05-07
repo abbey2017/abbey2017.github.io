@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Feb. 2023
 client: WEA
 category: Predict appointment cancellations using machine learning
-description: The goal is to predict the probability that a lead would cancel their appointment using different machine learning algorithms.
+description: The goal of the project was to predict the probability of appointment cancellations using different machine learning algorithms.
 ---
