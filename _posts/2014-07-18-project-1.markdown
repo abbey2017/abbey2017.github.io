@@ -5,7 +5,7 @@ date: 2023-02-01
 img: cabin.png
 alt: image-alt
 project-date: Feb. 2023
-client: WEA
+client: DataSci Consulting LLC
 category: Predict appointment cancellations using machine learning
 description: The goal of the project was to predict the probability of appointment cancellations using different machine learning algorithms.
 ---
