@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2023
 client: Danish S.
 category: Stock Market Prediction
-description: Fine-tuned a deep learning CNN-LSTM model for consistent stock market price predictions.
+description: Fine-tuned a CNN-LSTM deep learning model for stock price predictions.
 ---
