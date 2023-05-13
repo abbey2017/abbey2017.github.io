@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2023-04-10
+img: Role-of-explainability-in-time-series-forecasting_Q320.jpg
 alt: image-alt
-project-date: April 2014
-client: WEA
-category: Solar Power Prediction
-description: Under Construction.
+project-date: April 2023
+client: Danish S.
+category: Stock Market Prediction
+description: Fine-tuned a deep learning CNN-LSTM model for consistent stock market price predictions.
 ---
